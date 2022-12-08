@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FathimaNusrath06
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning spreadsheets,Sql,Tableau,R,python
+- 🌱 I’m currently excelling Spreadsheets(MS Excel & Google sheets),SQL,Python,Tableau,R
 - 💞️ I’m looking to collaborate on data analysis projects
 -
 
